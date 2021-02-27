@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Pages\AuthPage.xaml.g.cs
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\User\Desktop\MobileApp\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\Pages\UserPage.xaml.g.cs

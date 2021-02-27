@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.Pages.AuthPage">
+    <ContentPage.Content>
+        <StackLayout Padding="50,0,50,0">
+            <Label Text="Authorisation" HorizontalOptions="Center" FontSize="35"/>
+            <Entry x:Name="LoginField" Placeholder="Login" />
+            <Entry IsPassword="True" Placeholder="Password" x:Name="PasswordField"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button x:Name="AuthButton" Text="Auth" Clicked="AuthButton_Clicked"/>
+                <Button x:Name="RegButton" Text="Reg" Clicked="RegButton_Clicked" Margin="20,0,0,0"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
